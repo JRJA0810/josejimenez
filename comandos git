@@ -28,4 +28,4 @@ cuenta > settings > Credentials: personal access tokens (classic)
 
 
 subir cambios al repositorio:
-git push origin main
+git push origin main --force --> subir cambios (sin force)
