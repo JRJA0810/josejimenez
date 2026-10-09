@@ -1,0 +1,31 @@
+
+
+
+
+
+
+
+
+
+
+git add. : agrega todos los archivos pendientes al proximo commit
+
+
+
+
+.gitnore : lista de archivos que nunca se agregaran al repositorio
+
+renombrar rama:
+git branch -M nuevo_nombre
+
+enlazar repo local con el repo remoto
+git remote add origin url_del_repositorio_remoto
+git remote add origin :buscar y copiar en github el http
+
+
+generar nuevo token clasic para usarlo como password:
+cuenta > settings > Credentials: personal access tokens (classic)
+
+
+subir cambios al repositorio:
+git push origin main
